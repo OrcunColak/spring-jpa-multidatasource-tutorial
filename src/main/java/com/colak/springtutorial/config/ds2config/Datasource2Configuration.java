@@ -1,4 +1,4 @@
-package com.colak.springjpamultidatasourcetutorial.config.ds2config;
+package com.colak.springtutorial.config.ds2config;
 
 import jakarta.persistence.EntityManagerFactory;
 import org.springframework.beans.factory.annotation.Qualifier;

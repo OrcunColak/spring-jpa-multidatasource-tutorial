@@ -1,4 +1,4 @@
-package com.colak.springjpamultidatasourcetutorial.config.ds1config;
+package com.colak.springtutorial.config.ds1config;
 
 import jakarta.persistence.EntityManagerFactory;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;

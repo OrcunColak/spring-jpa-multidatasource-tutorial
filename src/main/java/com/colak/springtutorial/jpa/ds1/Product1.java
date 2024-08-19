@@ -1,4 +1,4 @@
-package com.colak.springjpamultidatasourcetutorial.jpa.ds1;
+package com.colak.springtutorial.jpa.ds1;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
